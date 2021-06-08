@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465850272687",
+    "project_id": "parkeye-a4fb7",
+    "storage_bucket": "parkeye-a4fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465850272687:android:fa6f5034635ab54154bd5a",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465850272687-5dpp7l3po0tpo7udqn55fk6ekdc05l78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnUx16T46HZ8ilD-R9xSxmvLS9CGv0is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465850272687-5dpp7l3po0tpo7udqn55fk6ekdc05l78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
